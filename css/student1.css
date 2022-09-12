@@ -1,0 +1,28 @@
+body{
+    margin: 5px;
+    padding: 5px;
+    line-height: 1.15;
+}
+
+h1,h2,h3{
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+h3{
+    padding-bottom: 20px;
+}
+
+nav{
+    padding-top: 25px;
+}
+
+ul li {
+    background-color: plum;
+    padding: 5px;
+    width: 25px;
+    display: inline;
+    margin-left:25px;
+    list-style-type: upper-roman;
+    border: 2px solid grey;
+}
